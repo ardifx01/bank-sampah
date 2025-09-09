@@ -102,9 +102,13 @@ Aplikasi ini dibuat untuk memenuhi tugas [Sebutkan Nama Mata Kuliah/Tugas Anda].
 ![Dashboard Admin](https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222014.png?raw=true)
 
 **2. Halaman Pencatatan Transaksi oleh Admin**
-![Catatan transaksi](https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222056.png?raw=true)
+![Catatan transaksi]([https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222056.png?raw=true)
 
-**3. Halaman Riwayat Transaksi Pengguna**
+**3. Halaman Pencatatan Drop Point oleh Admin**
+
+![Halaman pencatatan drop point](https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222509.png?raw=true)
+
+**4. Halaman Riwayat Transaksi Pengguna**
 
 ![Halaman Riwayat Transaksi](https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222509.png?raw=true)
 
