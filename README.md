@@ -23,28 +23,20 @@ Aplikasi ini dibuat untuk memenuhi tugas [Sebutkan Nama Mata Kuliah/Tugas Anda].
 
 ---
 
-### ## Arsitektur & ERD
-
-Aplikasi ini dibangun dengan arsitektur **MVC (Model-View-Controller)**.
-
-* **Framework Backend:** Laravel 12
-* **Tampilan (Frontend):** Bootstrap 5 (menggunakan template SB Admin 2)
-* **Database:** MySQL
-
 #### Entity-Relationship Diagram (ERD)
 
-+-------------+       +---------------+       +--------------------+
-|    users    |----<--|  collections  |----<--| collection_details |
-+-------------+       +---------------+       +--------------------+
-| id (PK)     |       | id (PK)       |       | id (PK)            |
-| name        |       | user_id (FK)  |       | collection_id (FK) |
-| email       |       | drop_point_id |       | waste_type         |
-| password    |       | total_points  |       | weight_in_kg       |
-| role        |       +---------------+       | points_per_kg      |
-| points_balance|                             +--------------------+
+```text
++-------------+        +---------------+        +--------------------+
+|   users     |----<-- |  collections  |----<-- | collection_details |
++-------------+        +---------------+        +--------------------+
+| id (PK)     |        | id (PK)       |        | id (PK)            |
+| name        |        | user_id (FK)  |        | collection_id (FK) |
+| email       |        | drop_point_id |        | waste_type         |
+| password    |        | total_points  |        | weight_in_kg       |
+| role        |        +---------------+        | points_per_kg      |
+| points_bal. |                                 +--------------------+
 +-------------+
-|
-|
+
 +-------------+
 | drop_points |
 +-------------+
@@ -52,8 +44,7 @@ Aplikasi ini dibangun dengan arsitektur **MVC (Model-View-Controller)**.
 | name        |
 | address     |
 +-------------+
-
-
+```
 ---
 
 ### ## Cara Menjalankan Lokal
