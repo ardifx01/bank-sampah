@@ -106,7 +106,7 @@ Aplikasi ini dibuat untuk memenuhi tugas [Sebutkan Nama Mata Kuliah/Tugas Anda].
 
 **3. Halaman Riwayat Transaksi Pengguna**
 
-![Transaksi pengguna]([https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222056.png?raw=true)
+![Halaman Riwayat Transaksi](https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222509.png?raw=true)
 
 ---
 
