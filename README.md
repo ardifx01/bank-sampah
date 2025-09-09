@@ -99,7 +99,7 @@ Aplikasi ini dibuat untuk memenuhi tugas [Sebutkan Nama Mata Kuliah/Tugas Anda].
 
 **1. Halaman Dashboard Admin**
 
-*(Ganti baris ini dengan gambar dashboard admin Anda)*
+![image alt]([image_url](https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222014.png?raw=true))
 
 **2. Halaman Pencatatan Transaksi oleh Admin**
 
