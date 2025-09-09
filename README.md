@@ -1,5 +1,3 @@
-![alt text]([?raw=true](https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222014.png))
-
 # Aplikasi Web Bank Sampah
 Aplikasi ini dibuat untuk memenuhi tugas [Sebutkan Nama Mata Kuliah/Tugas Anda]. Proyek ini mensimulasikan sistem pengelolaan bank sampah digital untuk membantu isu keberlanjutan.
 
@@ -101,7 +99,7 @@ Aplikasi ini dibuat untuk memenuhi tugas [Sebutkan Nama Mata Kuliah/Tugas Anda].
 
 **1. Halaman Dashboard Admin**
 
-![image alt]([image_url](https://github.com/rafiputra222/bank-sampah/blob/acb0bee217bf77c383241411574375900a100d9e/Screenshot%202025-09-09%20222014.png))
+![Dashboard Admin](https://github.com/rafiputra222/bank-sampah/blob/main/Screenshot%202025-09-09%20222014.png?raw=true)
 
 **2. Halaman Pencatatan Transaksi oleh Admin**
 
